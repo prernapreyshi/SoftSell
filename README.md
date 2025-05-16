@@ -16,4 +16,4 @@
 ~6–8 hours total
 
 ## 🔗 Live Demo
-[https://softsell.vercel.app](https://softsell.vercel.app)
+[https://soft-sell-mu-two.vercel.app/]
